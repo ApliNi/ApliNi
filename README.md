@@ -1,5 +1,5 @@
 [
-  <img src="https://ipacel.cc/+/MoeCounter/?u=github&t=xml" align="right" />
+  <img src="https://ipacel.cc/+/MoeCounter2/?name=github" align="right" />
 ](https://github.com/From-pErfo/Moe-counter-PHP)
 
 ### 你好呀 `Hi there`
