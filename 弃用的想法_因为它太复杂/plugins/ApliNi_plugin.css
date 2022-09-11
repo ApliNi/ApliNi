@@ -1,0 +1,62 @@
+/*样式复用 - 2022年6月9日*/
+	/*所有输入框*/
+	.input{
+		border-radius: 0;
+		color: var(--c-ui0);
+		background-color: var(--b-ui0);
+		font-size: small;
+		-webkit-appearance: none;
+		border: none;
+		outline: none;
+		user-select: none;
+	}
+	/*所有按钮*/
+	.btn{
+		user-select: none;
+	}
+
+
+
+
+/*侧边栏跟随滚动 - 2022年5月28日*/
+	/*侧边栏2*/
+	.mid-container > .bar-box > .bar2-box{
+		margin-top: 0;
+		transition: margin-top 0.5s;
+	}
+	/*绝对位置*/
+	.mid-container > .bar-box > .bar2-box.-fixed{
+		position: fixed;
+		top: 20px;
+		width: var(--d-bar-width);
+		margin-top: 10px; /*动效*/
+		transition: margin-top 0.3s;
+	}
+
+
+
+/*编辑器输入框自动设置高度 - 2022年6月11日*/
+	/*输入框*/
+	.mid-container > .main > .editor-box .input.crp{
+		/*隐藏滚动条*/
+		overflow: hidden;
+	}
+
+
+
+/*特殊动效 - 2022年6月11日*/
+	/*main-Fn*/
+	.mid-container > .main > .main-Fn{ /*.-quit*/
+		transform: matrix(0.8, 0, 0, 0.8, 0, 0);
+		opacity: 0;
+		transition: all .4s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+		max-height: 0;
+	}
+	.mid-container > .main > .main-Fn:not(.-join){ /*防止与阴影冲突*/
+		overflow: hidden; /*隐藏内部的元素, 通常情况会溢出*/
+	}
+	.mid-container > .main > .main-Fn.-join{
+		transform: matrix(1, 0, 0, 1, 0, 0);
+		opacity: 1;
+		max-height: 100%;
+	}

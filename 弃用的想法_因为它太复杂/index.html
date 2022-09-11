@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+	<title>[IpacEL]/ ApliNi</title>
+	<link rel="stylesheet" href="/plugins/cake.css?v=1.84">
+	<link rel="stylesheet" href="plugins/ApliNi.css?v=0.0">
+	<link rel="stylesheet" href="plugins/ApliNi_plugin.css?v=0.0">
+</head>
+<body id="top">
+	<div class="container">
+		<ul class="nav">
+			<li><a href="/Range/">文档</a></li>
+			<li><a href="/Message/">留言</a></li>
+			<li><a href="/">主页</a></li>
+			<li class="right"><a onClick="">N-p</a></li>
+		</ul>
+		
+		<!--标题-->
+		<div class="top-title">
+			<h1>ApliNi's Blog</h1>
+			<h3>尽可能的轻量, 尽可能的美观, 尽可能的高性能. 仍在开发中...</h3>
+		</div>
+		
+		<!--顶部下方-->
+		<div id="top2" style="position: relative; top: -47px;"></div>
+
+
+		<div class="mid-container">
+			
+			<!--右侧主体-->
+			<div id="main" class="main">
+				
+				<!--Fn-主页-->
+				<div id="Fn_message_box" class="main-Fn -join message">
+					<!--文章-->
+					<div id="pageBox" class="page-box">
+						<p class="loading"></p>
+					</div>
+					
+					<!--翻页功能-->
+					<div class="pagination-box">
+						<button class="btn" onclick="pagination('min')">«</button>
+						<button class="btn" onclick="pagination('-1')">‹</button>
+						<input id="pagination_input"
+							class="input"
+							maxlength="7"
+							onclick="this.select()"
+							onkeypress="if(event.keyCode===13) pagination(value)"
+							placeholder="分页"
+							data-mode="page"
+						/>
+						<button class="btn" onclick="pagination('+1')">›</button>
+						<button class="btn" onclick="pagination('max')">»</button>
+					</div>
+									
+					<!--END-->
+					<div id="Fn_end_box" class="end-box">
+						<p>消息</p>
+						<p>ApliNi by ApliNi</p>
+					</div>
+				</div>
+
+
+				
+				<!--Fn-编辑器-->
+				<div id="Fn_editor_box" class="main-Fn editor-box">
+					
+					<!--标题-->
+					<div class="box">
+						<input id="crp_Title"
+							class="input title"
+							placeholder="文章标题"
+						/>
+					</div>
+
+					<!--预览按钮-->
+					<!--<button class="btn preview" onclick="">预览</button>-->
+					
+					<!--正文-->
+					<div class="box">
+						<textarea id="crp_Text"
+							class="input crp"
+							placeholder="正文"
+							oninput="autoCrpHeight(this)"
+						></textarea>
+					</div>
+					
+					<!--最后-->
+					<div class="">
+						<button class="btn release" onclick="upPaper()">发布文章</button>
+						<button class="btn draft" onclick="">保存草稿</button>
+					</div>
+				</div>
+				
+
+
+				<!--Fn-统计数据-->
+				<div id="Fn_stat_box" class="main-Fn">
+					
+				</div>
+				
+
+
+				<!--Fn-登录-->
+				<div id="Fn_login_box" class="main-Fn">
+					
+				</div>
+
+
+
+				<!--留空-->
+				<div style="height: 20vh;"></div>
+			</div>
+			<!--主体 END-->
+			
+			
+			
+			<!--左侧侧边栏-->
+			<input id="bar-box-enable-btn" class="bar-box-enable" style="display: none" type="checkbox">
+			<label for="bar-box-enable-btn" class="bar-box-enable-masking"></label>
+			<label for="bar-box-enable-btn" class="bar-box-enable-btn">›</label>
+			<div class="bar-box start">
+				
+				<!--1-->
+				<div id="bar1-box_id" class="bar1-box">
+					<div class="bar1-title">
+						<h2>LiYllINI - ApliNi</h2>
+						<p id="_plugin_hitokoto_p" class="note">这里使用一言语句接口</p>
+					</div>
+					<div class="bar1-main">
+						<input class="input" maxlength="24" placeholder="↻搜索 ">
+					</div>
+				</div>
+				
+				
+				<!--2-->
+				<div id="bar2-box_id" class="bar2-box">
+					<!--功能切换按钮-->
+					<input id="bar2-top-toggle-目录" type="radio" name="bar2-top-toggle">
+					<label for="bar2-top-toggle-目录" id="bar2-top-toggle-目录-btn" style="display: none">目录</label>
+					
+					<input id="bar2-top-toggle-站点概览" type="radio" name="bar2-top-toggle" checked>
+					<label for="bar2-top-toggle-站点概览">站点概览</label>
+					
+					<input id="bar2-top-toggle-功能" type="radio" name="bar2-top-toggle">
+					<label for="bar2-top-toggle-功能">功能</label>
+					
+					
+					<!--目录-->
+					<div class="bar2-catalog-box">
+						目录
+					</div>
+					
+					
+					<!--站点概览-->
+					<div class="bar2-me-box">
+						<img class="avatar" src="plugins/img/ApliNi.webp">
+						
+						<h3 class="name">ApliNi</h3>
+						<p class="note">什么</p>
+						
+						<!--统计信息-->
+						<div class="statis-box">
+							<div class="statis-2-box">
+								<h3>0</h3>
+								<p>文章</p>
+							</div>
+							<div class="statis-2-box">
+								<h3>0</h3>
+								<p>标签</p>
+							</div>
+							<div class="statis-2-box">
+								<h3>0</h3>
+								<p>记录</p>
+							</div>
+						</div>
+						
+						<!--链接-->
+						<br />
+						<div class="bar2-link-box">
+							<a href="https://github.com/ApliNi">Github</a>
+							<a href="https://github.com/IpacEL">IpacEL</a>
+						</div>
+						
+						<!--链接2-->
+						<div class="bar2-link2-box">
+							<h3>Links</h3>
+							<a href="https://github.com/IpacEL/Mirai-Purpur">Mirai-Purpur</a>
+							<a href="https://github.com/IpacEL/IpacEL">IpacEL-IpacEL</a>
+						</div>
+					</div>
+					
+					
+					<!--功能-->
+					<div class="bar2-tool-box">
+						<h3>欢迎回来</h3>
+
+						<input id="bar2-Fn-主页" type="radio" name="bar2-Fn" onclick="bar2FnToggle('Fn_message_box')" checked>
+						<label for="bar2-Fn-主页">主页</label>
+						
+						<input id="bar2-Fn-编辑器" type="radio" name="bar2-Fn" onclick="bar2FnToggle('Fn_editor_box')">
+						<label for="bar2-Fn-编辑器">编辑器</label>
+						
+						<input id="bar2-Fn-统计数据" type="radio" name="bar2-Fn" onclick="bar2FnToggle('Fn_stat_box')">
+						<label for="bar2-Fn-统计数据">统计数据</label>
+						
+						<input id="bar2-Fn-登录" type="radio" name="bar2-Fn" onclick="bar2FnToggle('Fn_login_box')">
+						<label for="bar2-Fn-登录">登录</label>
+					</div>
+
+					<!--留空-->
+					<div style="height: 20vh; width: 100%;"></div>
+				</div>
+				
+				
+			</div>
+			<!--侧边栏 END-->
+			
+		</div>
+		<!--容器 END-->
+		
+		
+		<!--悬浮按钮-->
+		<div class="fixed-box">
+			
+			<!--
+			<div class="btn-box">
+				<button class="btn">✚</button>
+				<p class="btn-note">Acbendr</p>
+			</div>
+			-->
+			
+			<div class="btn-box">
+				<button class="btn" title="辅助功能">?</button>
+				<p class="btn-note">辅助功能菜单</p>
+			</div>
+			
+		</div>
+		
+		
+	</div>
+</body>
+	<style id="add_style_fn_box"></style> <!-- 用于添加css样式 -->
+	<script type="text/javascript" src="plugins/ApliNi_lib.js?v=0.0"></script>
+	<script type="text/javascript" src="plugins/ApliNi.js?v=0.0"></script>
+	<script type="text/javascript" src="plugins/ApliNi_plugin.js?v=0.0"></script>
+</html>
