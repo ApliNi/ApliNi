@@ -9,7 +9,7 @@
 - 我目前使用 Nginx, PHP, Javascript, HTML, CSS 制作网站.  
 - 我准备学习 Go, Java.  
 - 我喜欢玩 Minecraft, 为此我开设了一个[服务器](https://ipacel.cc/)并为它编写/维护[软件](https://github.com/IpacEL/).  
-- 我的博客还没写完, 可以在这里查看它现在的样子: [ApliNi](https://ipacel.cc/ApliNi/).  
+- 我的博客还没写完, 可以在这里查看它现在的样子: [ApliNi](https://ipacel.cc/ApliNi/_old/).  
 - 我在这里发布视频: [BiliBili](https://space.bilibili.com/389399670).  
 - 在这里找到我: Discord: [`ApliNi#4942`](https://discord.com/channels/@ApliNi#4942) / QQ: `486253008`.  
 
