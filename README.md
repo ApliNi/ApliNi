@@ -1,5 +1,5 @@
 [
-  <img src="https://ipacel.cc/+/MoeCounter2/?name=ApliNi_GitHub" align="right" />
+  <img src="https://ipacel.cc/+/MoeCounter2/?name=ApliNi_GitHub&min_num_length=1" align="right" />
 ](https://github.com/From-pErfo/Moe-counter-PHP)
 
 ### 你好呀 `Hi there`
