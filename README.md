@@ -11,7 +11,7 @@
 - 🎼 我熟悉的开发环境
   - 语言: `Javascript, CSS, HTML, PHP, Java`
   - 工具: `VSCode, IDEA, HBuilderX`
-  - 软件: `Nginx, PHP, Node.js, SQLite`
+  - 软件: `Nginx, FRP, Node.js, SQLite, MariaDB`
 <p></p>
 
 - 🛰 我最近维护的项目
