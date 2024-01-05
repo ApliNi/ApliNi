@@ -44,6 +44,7 @@
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
   - [useTranslatedNames :: 翻译插件显示的物品ID](https://github.com/ApliNi/useTranslatedNames) 🌟
   - [AutoUpdatePlugins :: 更好的自动更新插件](https://github.com/ApliNi/AutoUpdatePlugins/) 🌟
+  - [定制插件] [PerPlayerWorld :: 每个玩家世界](https://github.com/ApliNi/PerPlayerWorld/)
   - [BedrockMinerPlugin :; 适用于插件服的破基岩插件](https://github.com/ApliNi/BedrockMinerPlugin)
   - [versionUpdatePrompt :: 提醒玩家更新客户端](https://github.com/ApliNi/versionUpdatePrompt)
   - [IpacPER :: 更多权限](https://github.com/ApliNi/IpacPER)
