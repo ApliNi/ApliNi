@@ -37,6 +37,7 @@
   - [LinKa :: 尝试写一个模块化的联机游戏](https://ipacel.cc/Array/_1/)
   - [MCList :: 长时间记录MC服务器历史数据](https://mc.ipacel.cc/)
   - [IpacEL Minecraft 服务器主页](https://ipacel.cc/)
+  - [CloudFlare Warp IP 优选](https://ntt.ipacel.cc/)
 <p></p>
 
 - 其他项目
