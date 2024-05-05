@@ -24,12 +24,10 @@
 
 - 编码
   - WEB 前后端 :: `JavaScript, CSS, HTML, PHP`, `VSCode, HBuilderX, Chrome`
-  - 其他 :: `Java, Python`, `IntelliJ IDEA, VSCode`
-  - 数据库 :: `SQLite_SQL`, `DB_Browser, HeidiSQL`
-  - PLC :: `SCL, LAD`, `TIA Portal, STEP 7-Micro, 信捷 XDPPro`
-  - ROBOT :: `ABB, 华数`, `RobotStudio, PQ Factory`
-  - 软件和平台 :: `Node.js, SQLite, NGINX, FRP. 华为云, CloudFlare`
-  - AI :: `poe.com, 司马阅, 文心一言`, `PaddleOCR`
+  - 开发工具 :: `Java, Python`, `IntelliJ IDEA, VSCode`
+  - 数据库 :: `SQLite`, `DB_Browser, HeidiSQL`
+  - 工控 :: `SCL, LAD`, `TIA Portal, STEP 7-Micro, 信捷 XDPPro`. `RobotStudio, PQ Factory`
+  - 软件和平台 :: `Node.js, SQLite, NGINX, FRP. CloudFlare`
 <p></p>
 
 - 正在运行的网站
@@ -38,10 +36,9 @@
   - [MCList :: 长时间记录MC服务器历史数据](https://mc.ipacel.cc/)
   - [IpacEL Minecraft 服务器主页](https://ipacel.cc/)
   - [CloudFlare Warp IP 优选](https://ntt.ipacel.cc/)
+  - [Do you want to learn CTP dev?](https://ipacel.cc/ctp/)
 <p></p>
 
-- 其他项目
-  - [IpacLinker :: 一款点对点网络连接工具](https://github.com/ApliNi/IpacLinker) 🌟
 <p></p>
 
 - 正在维护的 Minecraft 服务端插件
