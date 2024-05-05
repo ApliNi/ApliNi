@@ -24,6 +24,7 @@
 
 - 编码
   - WEB 前后端 :: `JavaScript, CSS, HTML, PHP`, `VSCode, HBuilderX, Chrome`
+  - 嵌入式等 :: `Arduino, cpp`
   - 开发工具 :: `Java, Python`, `IntelliJ IDEA, VSCode`
   - 数据库 :: `SQLite`, `DB_Browser, HeidiSQL`
   - 工控 :: `SCL, LAD`, `TIA Portal, STEP 7-Micro, 信捷 XDPPro`. `RobotStudio, PQ Factory`
