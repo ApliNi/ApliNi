@@ -37,7 +37,7 @@
   - [MCList :: 长时间记录MC服务器历史数据](https://mc.ipacel.cc/)
   - [IpacEL Minecraft 服务器主页](https://ipacel.cc/)
   - [CloudFlare Warp IP 优选](https://ntt.ipacel.cc/)
-  - [Do you want to learn CTP dev?](https://ipacel.cc/ctp/)
+  - [广告 :: CTP 开发教程](https://ipacel.cc/ctp/)
 <p></p>
 
 <p></p>
