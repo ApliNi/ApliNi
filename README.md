@@ -57,6 +57,7 @@
 - 在这里找到我
   - Discord: [`@ApliNi#4942`](https://discord.com/channels/@ApliNi#4942) 不常用
   - QQ: `169548809`
+  - 交流群: [Ipac会客室](https://qm.qq.com/q/9dYY4dg6Gs)
 <p></p>
 
 ### &nbsp;
