@@ -24,11 +24,11 @@
 
 - 编码
   - WEB 前后端 :: `JavaScript, CSS, HTML, PHP`, `VSCode, HBuilderX, Chrome`
-  - 嵌入式等 :: `Arduino, cpp`
-  - 开发工具 :: `Java, Python`, `IntelliJ IDEA, VSCode`
-  - 数据库 :: `SQLite`, `DB_Browser, HeidiSQL`
-  - 工控 :: `SCL, LAD`, `TIA Portal, STEP 7-Micro, 信捷 XDPPro`. `RobotStudio, PQ Factory`
-  - 软件和平台 :: `Node.js, SQLite, NGINX, FRP. CloudFlare`
+  - 嵌入式 :: `Arduino`, `PlatformIO`, `cpp`
+  - 开发工具 :: `Java`, `Python`. `IntelliJ IDEA, VSCode`
+  - 数据库 :: `SQLite`, `MariaDB`. `HeidiSQL`
+  - 软件和平台 :: `Node.js, NGINX. OpenAI, 讯飞开放平台. CloudFlare`
+  - 工控 :: `SCL`, `TIA Portal V16, STEP 7-MicroWIN SMART`. `Tecnomatix PDPS, RobotStudio, PQ Factory`
 <p></p>
 
 - 正在运行的网站
@@ -47,7 +47,6 @@
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
   - [useTranslatedNames :: 翻译插件显示的物品ID](https://github.com/ApliNi/useTranslatedNames) 🌟
   - [AutoUpdatePlugins :: 更好的自动更新插件](https://github.com/ApliNi/AutoUpdatePlugins/) 🌟
-  - [定制插件] [PerPlayerWorld :: 每个玩家世界](https://github.com/ApliNi/PerPlayerWorld/)
   - [BedrockMinerPlugin :: 适用于插件服的破基岩插件](https://github.com/ApliNi/BedrockMinerPlugin)
   - [versionUpdatePrompt :: 提醒玩家更新客户端](https://github.com/ApliNi/versionUpdatePrompt)
   - [IpacPER :: 更多权限](https://github.com/ApliNi/IpacPER)
