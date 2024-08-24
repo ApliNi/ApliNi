@@ -32,8 +32,8 @@
 <p></p>
 
 - 正在运行的网站
-  - [CiAt :: AI 对话](https://cat.ipacel.cc/)
-  - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/) 🌟
+  - [CiAt :: AI 对话](https://cat.ipacel.cc/) 🌟
+  - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
   - [LinKa :: 尝试写一个模块化的联机游戏](https://ipacel.cc/Array/_1/)
   - [MCList :: 长时间记录MC服务器历史数据](https://mc.ipacel.cc/)
   - [IpacEL Minecraft 服务器主页](https://ipacel.cc/)
