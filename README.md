@@ -1,3 +1,4 @@
+
 [
   <img src="https://ipacel.cc/+/MoeCounter2/?name=ApliNi_GitHub&min_num_length=4" align="right" />
 ](https://github.com/ApliNi/Moe-counter-PHP)
@@ -21,8 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 编码
   - WEB 前后端 :: `JavaScript, CSS, HTML, PHP`, `VSCode, HBuilderX, Chrome`
@@ -68,4 +67,14 @@
 <img src="https://github.com/ApliNi/ApliNi/blob/main/_img/ipacel_4.0.jpg" width="100%" />
 ](https://ipacel.cc/map/)
 
+
 <center><p align="center"><code>&nbsp;&nbsp; We &nbsp;are &nbsp;here &nbsp;Forever &nbsp;&nbsp;</code></p></center>
+
+<br />
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplini&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+</div>
+
+
