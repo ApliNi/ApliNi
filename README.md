@@ -2,6 +2,7 @@
   <img src="https://ipacel.cc/+/MoeCounter2/?name=ApliNi_GitHub&min_num_length=4" align="right" />
 ](https://github.com/ApliNi/Moe-counter-PHP)
 
+
 ### 你好呀 ` Hi there `
 
 > 我是 **ApliNi**
@@ -21,6 +22,7 @@
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 编码
   - WEB 前后端 :: `JavaScript, CSS, HTML, PHP`, `VSCode, HBuilderX, Chrome`
