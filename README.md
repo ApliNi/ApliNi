@@ -4,9 +4,9 @@
 ](https://github.com/ApliNi/Moe-counter-PHP)
 
 
-### 你好呀 ` Hi there `
+### 👋
 
-> 我是 **ApliNi**
+> 🧐👉 **ApliNi**
 
 
 [![BiliBili](https://img.shields.io/badge/BiliBili-fb7299?style=flat-square&logo=bilibili)](https://space.bilibili.com/389399670)
