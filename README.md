@@ -10,7 +10,7 @@
 > 🧐👉 **ApliNi**
 
 
-
+<!--
 [![BiliBili](https://img.shields.io/badge/BiliBili-fb7299?style=flat-square&logo=bilibili)](https://space.bilibili.com/389399670)
 [![Minecraft](https://img.shields.io/badge/Minecraft-06B0FF?style=flat-square&logo=minecraft&logoColor=black)](https://ipacel.cc/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
@@ -24,6 +24,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
+-->
 
 - ✨
   - **☝**: `Arduino`, `JavaScript, CSS, HTML`, `Java`, `PHP`
