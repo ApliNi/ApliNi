@@ -23,16 +23,15 @@
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
 
-- 编码
-  - WEB 前后端 :: `JavaScript, CSS, HTML, PHP`, `VSCode, HBuilderX, Chrome`
-  - 嵌入式 :: `Arduino`, `PlatformIO`, `cpp`
-  - 开发工具 :: `Java`, `Python`. `IntelliJ IDEA, VSCode`
-  - 数据库 :: `SQLite`, `MariaDB`. `HeidiSQL`
-  - 软件和平台 :: `Node.js, NGINX. OpenAI, 讯飞开放平台. CloudFlare`
-  - 工控 :: `SCL`, `TIA Portal V16, STEP 7-MicroWIN SMART`. `Tecnomatix PDPS, RobotStudio, PQ Factory`
+- ✨
+  - **☝**: `Arduino`, `JavaScript, CSS, HTML`, `Java`, `PHP`
+  - **✌**: `Node.js`, `NGINX, FRP`, `SQLite, MeiliSearch, *.txt`, `puppeteer, fastify`
+  - **👉**: `VSCode, Chrome, HBuilderX`, `IntelliJ IDEA`, `HeidiSQL`, `TIA Portal, PDPS, PQ Factory, RobotStudio`, `Arduino`
+  - **👈**: `CloudFlare`, `BigModel, OpenAI`
+  - **👆**: `OpenBMCLAPI, AList, NapCat, Lucky, Cloudflared, HFish, Duplicati, Cloudreve, MCSManager`, `Debian, Windows10`
 <p></p>
 
-- 正在运行的网站
+- 🚀
   - [CiAt :: AI 对话](https://cat.ipacel.cc/) 🌟
   - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
   - [LinKa :: 尝试写一个模块化的联机游戏](https://ipacel.cc/Array/_1/)
@@ -44,7 +43,7 @@
 
 <p></p>
 
-- 正在维护的 Minecraft 服务端插件
+- 🚲
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
   - [useTranslatedNames :: 翻译插件显示的物品ID](https://github.com/ApliNi/useTranslatedNames) 🌟
@@ -55,7 +54,7 @@
   - [HuskHomes 传送系统的 GUI](https://github.com/WiIIiam278/HuskHomesGUI)
 <p></p>
 
-- 在这里找到我
+- 🌌
   - Discord: [`@ApliNi#4942`](https://discord.com/channels/@ApliNi#4942) 不常用
   - QQ: `169548809`
   - 交流群: [Ipac会客室](https://qm.qq.com/q/9dYY4dg6Gs)
