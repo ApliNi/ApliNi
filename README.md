@@ -58,9 +58,8 @@
 <p></p>
 
 - 🌌
-  - Discord: [`@ApliNi#4942`](https://discord.com/channels/@ApliNi#4942) ❌
-  - QQ: `169548809` ♻
-  - 交流群: [Ipac会客室](https://qm.qq.com/q/9dYY4dg6Gs) ✔
+  - 📬: `aplini@ipacel.cc` ✔
+  - 🐧: `169548809` ♻, [Ipac会客室](https://qm.qq.com/q/9dYY4dg6Gs) ✔
 <p></p>
 
 
