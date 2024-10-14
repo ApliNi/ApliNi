@@ -58,8 +58,8 @@
 <p></p>
 
 - 🌌
-  - 📬: `aplini@ipacel.cc` ✔
-  - 🐧: `169548809` ♻, [Ipac会客室](https://qm.qq.com/q/9dYY4dg6Gs) ✔
+  - 📬: [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) ✔
+  - 🐧: `169548809` ♻, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs) ✔
 <p></p>
 
 
