@@ -27,11 +27,13 @@
 -->
 
 - 这里有一些 ApliNi 擅长或者使用过的东西 ✨
-  - `Arduino`, `JavaScript, CSS, HTML`, `Java`, `PHP`
-  - `Node.js`, `NGINX, FRP`, `SQLite, MeiliSearch, *.txt`, `puppeteer, fastify`
-  - `VSCode, Chrome, HBuilderX`, `IntelliJ IDEA`, `HeidiSQL`, `TIA Portal, PDPS, PQ Factory, RobotStudio`, `Arduino`
-  - `CloudFlare`, `BigModel, OpenAI`
-  - `OpenBMCLAPI, AList, NapCat, Lucky, Cloudflared, HFish, Duplicati, Cloudreve, MCSManager`, `Debian, Windows10`
+  ```
+  - Arduino, JavaScript, CSS, HTML, Java, PHP
+  - Node.js, NGINX, FRP, SQLite, MeiliSearch, puppeteer, fastify
+  - VSCode, Chrome, HBuilderX, IntelliJ IDEA, HeidiSQL, TIA Portal, PDPS, PQ Factory, RobotStudio, Arduino
+  - CloudFlare, BigModel, OpenAI
+  - OpenBMCLAPI, AList, NapCat, Lucky, Cloudflared, HFish, Duplicati, Cloudreve, MCSManager, Debian, Windows10
+  ```
 <p></p>
 
 - 这些来自 ApliNi 的服务器 🚀
