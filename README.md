@@ -5,9 +5,9 @@
 
 <p></p>
 
-### 👋👋
+### 你好呀 👋👋
 
-> 🧐👉 **ApliNi**
+> 🧐👉 我是 **ApliNi**
 
 
 <!--
@@ -26,27 +26,26 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
 -->
 
-- ✨
-  - **☝**: `Arduino`, `JavaScript, CSS, HTML`, `Java`, `PHP`
-  - **✌**: `Node.js`, `NGINX, FRP`, `SQLite, MeiliSearch, *.txt`, `puppeteer, fastify`
-  - **👉**: `VSCode, Chrome, HBuilderX`, `IntelliJ IDEA`, `HeidiSQL`, `TIA Portal, PDPS, PQ Factory, RobotStudio`, `Arduino`
-  - **👈**: `CloudFlare`, `BigModel, OpenAI`
-  - **👆**: `OpenBMCLAPI, AList, NapCat, Lucky, Cloudflared, HFish, Duplicati, Cloudreve, MCSManager`, `Debian, Windows10`
+- 这里有一些 ApliNi 擅长或者使用过的东西 ✨
+  - `Arduino`, `JavaScript, CSS, HTML`, `Java`, `PHP`
+  - `Node.js`, `NGINX, FRP`, `SQLite, MeiliSearch, *.txt`, `puppeteer, fastify`
+  - `VSCode, Chrome, HBuilderX`, `IntelliJ IDEA`, `HeidiSQL`, `TIA Portal, PDPS, PQ Factory, RobotStudio`, `Arduino`
+  - `CloudFlare`, `BigModel, OpenAI`
+  - `OpenBMCLAPI, AList, NapCat, Lucky, Cloudflared, HFish, Duplicati, Cloudreve, MCSManager`, `Debian, Windows10`
 <p></p>
 
-- 🚀
+- 这些来自 ApliNi 的服务器 🚀
   - [CiAt :: AI 对话](https://cat.ipacel.cc/) 🌟
   - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
   - [LinKa :: 尝试写一个模块化的联机游戏](https://ipacel.cc/Array/_1/)
   - [MCList :: 长时间记录MC服务器历史数据](https://mc.ipacel.cc/)
   - [IpacEL Minecraft 服务器主页](https://ipacel.cc/)
-  - [CloudFlare Warp IP 优选](https://ntt.ipacel.cc/)
   - [广告 :: CTP 开发教程](https://ipacel.cc/ctp/)
 <p></p>
 
 <p></p>
 
-- 🚲
+- 实现了 ApliNi 的想法 🚲
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
   - [useTranslatedNames :: 翻译插件显示的物品ID](https://github.com/ApliNi/useTranslatedNames) 🌟
@@ -57,9 +56,9 @@
   - [HuskHomes 传送系统的 GUI](https://github.com/WiIIiam278/HuskHomesGUI)
 <p></p>
 
-- 🌌
+- 欢迎并感谢联系 🌌
   - 📬: [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) ✔
-  - 🐧: `169548809` ♻, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs) ✔
+  - 🐧: `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs) ✔
 <p></p>
 
 
