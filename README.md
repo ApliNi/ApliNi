@@ -29,10 +29,10 @@
 - 这里有一些 ApliNi 擅长或者使用过的东西 ✨
   ```
   - JavaScript, CSS, HTML, Java, PHP
-  - Node.js, NGINX, FRP, SQLite, MeiliSearch, puppeteer, fastify
+  - Node.js, NGINX, FRP, SQLite, MeiliSearch, Puppeteer, Fastify
   - VSCode, Chrome, HBuilderX, IntelliJ IDEA, HeidiSQL, TIA Portal, PQ Factory, RobotStudio, Arduino
   - CloudFlare, BigModel, DeepSeek, OpenAI
-  - OpenBMCLAPI, AList, NapCat, Lucky, Cloudflared, HFish, Duplicati, Cloudreve, MCSManager, Debian, Windows10
+  - OpenBMCLAPI, AList, NapCat, Lucky, HFish, Duplicati, Cloudreve, MCSManager, Debian, Windows10
   - Minecraft, Arknights, Stardew Valley
   ```
 <p></p>
