@@ -49,6 +49,7 @@
 <p></p>
 
 - 实现了 ApliNi 的想法 🚲
+  - [aplPanel :: OpenBMCLAPI 仪表板](https://github.com/ApliNi/aplPanel)
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
   - [useTranslatedNames :: 翻译插件显示的物品ID](https://github.com/ApliNi/useTranslatedNames) 🌟
