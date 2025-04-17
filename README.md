@@ -38,7 +38,8 @@
 <p></p>
 
 - 这些来自 ApliNi 的服务器 🚀
-  - [CiAt :: AI 对话](https://cat.ipacel.cc/) 🌟
+  - [OCS 题库](https://qb.ipacel.cc/) 🌟
+  - [CiAt :: AI 对话](https://cat.ipacel.cc/)
   - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
   - [LinKa :: 尝试写一个模块化的联机游戏](https://ipacel.cc/Array/_1/)
   - [MCList :: 长时间记录MC服务器历史数据](https://mc.ipacel.cc/)
