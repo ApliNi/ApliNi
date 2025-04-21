@@ -26,7 +26,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
 -->
 
-- 这里有一些 ApliNi 擅长或者使用过的东西 ✨
+- 熟悉 ✨
   ```
   - JavaScript, CSS, HTML, Java, PHP
   - Node.js, NGINX, FRP, SQLite, MeiliSearch, Puppeteer, Fastify
@@ -37,7 +37,7 @@
   ```
 <p></p>
 
-- 这些来自 ApliNi 的服务器 🚀
+- 网站 🚀
   - [简单解释](https://qb.ipacel.cc/) 🌟
   - [CiAt :: AI 对话](https://cat.ipacel.cc/)
   - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
@@ -49,7 +49,7 @@
 
 <p></p>
 
-- 实现了 ApliNi 的想法 🚲
+- 想法 🚲
   - [aplPanel :: OpenBMCLAPI 仪表板](https://github.com/ApliNi/aplPanel)
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
@@ -61,7 +61,7 @@
   - [HuskHomes 传送系统的 GUI](https://github.com/WiIIiam278/HuskHomesGUI)
 <p></p>
 
-- 欢迎并感谢联系 🌌
+- 联系 🌌
   - 📬: [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) ✔
   - 🐧: `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs) ✔
 <p></p>
