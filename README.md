@@ -26,7 +26,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
 -->
 
-- 熟悉 ✨
+- 熟悉或接触过这些 ✨
   ```
   - JavaScript, CSS, HTML, Java, PHP
   - Node.js, NGINX, FRP, SQLite, MeiliSearch, Puppeteer, Fastify
@@ -37,7 +37,7 @@
   ```
 <p></p>
 
-- 网站 🚀
+- 我的 Web 应用 🚀
   - [简单解释](https://qb.ipacel.cc/) 🌟
   - [CiAt :: AI 对话](https://cat.ipacel.cc/)
   - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
@@ -50,7 +50,7 @@
 
 <p></p>
 
-- 想法 🚲
+- 我的开源软件 🚲
   - [aplPanel :: OpenBMCLAPI 仪表板](https://github.com/ApliNi/aplPanel)
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
