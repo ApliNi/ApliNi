@@ -1,35 +1,14 @@
 
-[
-  <img src="https://ipacel.cc/+/MoeCounter2/?name=ApliNi_GitHub&min_num_length=4" align="right" />
-](https://github.com/ApliNi/Moe-counter-PHP)
-
-<p></p>
+[  <img src="https://ipacel.cc/+/MoeCounter2/?name=ApliNi_GitHub&min_num_length=4" align="right" />  ](https://github.com/ApliNi/Moe-counter-PHP)
 
 ### 你好呀 👋👋
-
 > <code> 我是 **ApliNi** </code>  
-> <code> Email = [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20);  QQ = `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs); </code>
+> <code> Email = [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20);  QQ = `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs); </code>  
 
-
-<!--
-[![BiliBili](https://img.shields.io/badge/BiliBili-fb7299?style=flat-square&logo=bilibili)](https://space.bilibili.com/389399670)
-[![Minecraft](https://img.shields.io/badge/Minecraft-06B0FF?style=flat-square&logo=minecraft&logoColor=black)](https://ipacel.cc/)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F44238?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
--->
 
 ### 技术栈
 ```md
-| FrontEnd   | BackEnd   | DB     | IDE & Tools        | Platform   | Network   | OS                |
+| FrontEnd   | BackEnd   | DB     | IDE & Tool         | Platform   | Network   | OS                |
 | ---------- | --------- | ------ | ------------------ | ---------- | --------- | ----------------- |
 | JavaScript | Node.js   | SQLite | IntelliJ IDEA      | Cloudflare | Wireshark | Windows 10        |
 | CSS3       | Java      |        | VSCode             |            | Tailscale | Debian 12         |
@@ -43,11 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>
 
+### 项目
+
+<table><tbody><tr><td width="9999999px"><samp>
 <p></p>
-
-<details open><summary>关于我的项目</summary>
-
-  <table><tbody><tr><td width="9999999px"><samp>
 
 - Web 应用
   - [简单解释](https://qb.ipacel.cc/) - 自动刷题接口 🌟
@@ -57,8 +35,6 @@
   - [MCList](https://mc.ipacel.cc/) - 长时间记录 MC 服务器历史数据
   - [IpacEL](https://ipacel.cc/) - 一个 Minecraft 服务器的主页
   - [CTP 开发教程](https://ipacel.cc/ctp/) - 广告
-<p></p>
-
 <p></p>
 
 - 开源软件
@@ -73,11 +49,10 @@
   - [HuskHomes](https://github.com/WiIIiam278/HuskHomesGUI) - 传送系统的 GUI
 <p></p>
 
-  </samp></td></tr></tbody></table>
-
-</details>
+</samp></td></tr></tbody></table>
 
 <p></p>
 
 [  <img src="https://github.com/ApliNi/ApliNi/blob/main/_img/ipacel_4.0.jpg" width="100%" />  ](https://ipacel.cc/map/)
+
 <center><p align="center"><code>&nbsp;&nbsp; We &nbsp;are &nbsp;here &nbsp;Forever &nbsp;&nbsp;</code></p></center>
