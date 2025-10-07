@@ -26,7 +26,7 @@
 
 ### 项目
 
-<table><tbody><tr><td width="9999999px"><samp>
+<table style="max-width: 100%;"><tbody><tr><td width="9999999px"><samp>
 <p></p>
 
 - Web 应用
