@@ -7,7 +7,7 @@
 
 ### 你好呀 👋👋
 
-> 🧐👉 我是 **ApliNi**
+> 我是 **ApliNi**
 
 
 <!--
@@ -26,18 +26,14 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
 -->
 
-- 熟悉或接触过这些 ✨
-  ```
-  - JavaScript, CSS, HTML, Java, PHP
-  - Node.js, NGINX, FRP, SQLite, MeiliSearch, Puppeteer, Fastify
-  - VSCode, Chrome, HBuilderX, IntelliJ IDEA, HeidiSQL, TIA Portal, PQ Factory, RobotStudio, Arduino
-  - CloudFlare, BigModel, DeepSeek, OpenAI
-  - OpenBMCLAPI, AList, NapCat, Lucky, HFish, Duplicati, Cloudreve, MCSManager, Debian, Windows10
-  - Minecraft, Arknights, Stardew Valley
-  ```
-<p></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplini&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+</div>
 
-- 我的 Web 应用 🚀
+<details><summary>关于我的项目</summary>
+
+- Web 应用
   - [简单解释](https://qb.ipacel.cc/) 🌟
   - [CiAt :: AI 对话](https://cat.ipacel.cc/)
   - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
@@ -50,7 +46,7 @@
 
 <p></p>
 
-- 我的开源软件 🚲
+- 开源软件
   - [aplPanel :: OpenBMCLAPI 仪表板](https://github.com/ApliNi/aplPanel)
   - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
   - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
@@ -62,16 +58,12 @@
   - [HuskHomes 传送系统的 GUI](https://github.com/WiIIiam278/HuskHomesGUI)
 <p></p>
 
-- 联系 🌌
-  - 📬: [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) ✔
-  - 🐧: `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs) ✔
-<p></p>
+</details>
 
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplini&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</div>
+
+📬 [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) - 🐧 `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs)
+
 
 ### &nbsp;
 
