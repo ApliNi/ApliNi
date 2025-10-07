@@ -28,7 +28,7 @@
 -->
 
 ### 技术栈
-```css
+```md
 | FrontEnd   | BackEnd   | DB     | IDE & Tools        | Platform   | Network   | OS                |
 | ---------- | --------- | ------ | ------------------ | ---------- | --------- | ----------------- |
 | JavaScript | Node.js   | SQLite | IntelliJ IDEA      | Cloudflare | Wireshark | Windows 10        |
@@ -48,28 +48,27 @@
 <table><tbody><tr><td width="9999999px"><samp>
 
 - Web 应用
-  - [简单解释](https://qb.ipacel.cc/) 🌟
-  - [CiAt :: AI 对话](https://cat.ipacel.cc/)
-  - [MCID :: Minecraft 物品名称查询网站](https://mcid.ipacel.cc/)
-  - [MC 材料清单协作](https://lic.ipacel.cc/)
-  - [LinKa :: 尝试写一个模块化的联机游戏](https://ipacel.cc/Array/_1/)
-  - [MCList :: 长时间记录MC服务器历史数据](https://mc.ipacel.cc/)
-  - [IpacEL Minecraft 服务器主页](https://ipacel.cc/)
-  - [广告 :: CTP 开发教程](https://ipacel.cc/ctp/)
+  - [简单解释](https://qb.ipacel.cc/) - 自动刷题接口 🌟
+  - [CiAt](https://cat.ipacel.cc/) - 在当时还算高级的 AI 对话
+  - [MCID](https://mcid.ipacel.cc/) - Minecraft 物品名称查询网站
+  - [LinKa](https://ipacel.cc/Array/_1/) - 尝试写一个模块化的联机游戏
+  - [MCList](https://mc.ipacel.cc/) - 长时间记录 MC 服务器历史数据
+  - [IpacEL](https://ipacel.cc/) - 一个 Minecraft 服务器的主页
+  - [CTP 开发教程](https://ipacel.cc/ctp/) - 广告
 <p></p>
 
 <p></p>
 
 - 开源软件
-  - [aplPanel :: OpenBMCLAPI 仪表板](https://github.com/ApliNi/aplPanel)
-  - [Chat2QQ :: 使MC与QQ群通讯的插件](https://github.com/ApliNi/Chat2QQ) 🌟
-  - [IpacWhitelist :: 白名单+参观模式等其他功能](https://github.com/ApliNi/IpacWhitelist) 🌟
-  - [useTranslatedNames :: 翻译插件显示的物品ID](https://github.com/ApliNi/useTranslatedNames) 🌟
-  - [AutoUpdatePlugins :: 更好的自动更新插件](https://github.com/ApliNi/AutoUpdatePlugins/) 🌟
-  - [BedrockMinerPlugin :: 适用于插件服的破基岩插件](https://github.com/ApliNi/BedrockMinerPlugin)
-  - [versionUpdatePrompt :: 提醒玩家更新客户端](https://github.com/ApliNi/versionUpdatePrompt)
-  - [IpacPER :: 更多权限](https://github.com/ApliNi/IpacPER)
-  - [HuskHomes 传送系统的 GUI](https://github.com/WiIIiam278/HuskHomesGUI)
+  - [aplPanel](https://github.com/ApliNi/aplPanel) - OpenBMCLAPI 仪表板
+  - [Chat2QQ](https://github.com/ApliNi/Chat2QQ) - 使 MC 服务器与 QQ 群通讯的插件 🌟
+  - [IpacWhitelist](https://github.com/ApliNi/IpacWhitelist) - 白名单+参观模式等其他功能 🌟
+  - [useTranslatedNames](https://github.com/ApliNi/useTranslatedNames) - 翻译插件显示的物品 ID 和替换消息 🌟
+  - [AutoUpdatePlugins](https://github.com/ApliNi/AutoUpdatePlugins/) - 更好的自动更新插件 🌟
+  - [BedrockMinerPlugin](https://github.com/ApliNi/BedrockMinerPlugin) - 适用于插件服的破基岩插件
+  - [versionUpdatePrompt](https://github.com/ApliNi/versionUpdatePrompt) - 提醒玩家更新客户端
+  - [IpacPER](https://github.com/ApliNi/IpacPER) - Paper 服务器上的更多权限
+  - [HuskHomes](https://github.com/WiIIiam278/HuskHomesGUI) - 传送系统的 GUI
 <p></p>
 
 </samp></td></tr></tbody></table>
