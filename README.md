@@ -7,8 +7,8 @@
 
 ### 你好呀 👋👋
 
-> 我是 **ApliNi**  
-> 📬 [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) - 🐧 `169548809` [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs)
+> <code> 我是 **ApliNi** </code>  
+> <code> Email[[`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20)] - QQ[`169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs)] </code>
 
 
 <!--
@@ -43,9 +43,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>
 
-<details><summary>关于我的项目</summary>
+<p></p>
 
-<table><tbody><tr><td width="9999999px"><samp>
+<details open><summary>关于我的项目</summary>
+
+  <table><tbody><tr><td width="9999999px"><samp>
 
 - Web 应用
   - [简单解释](https://qb.ipacel.cc/) - 自动刷题接口 🌟
@@ -71,12 +73,11 @@
   - [HuskHomes](https://github.com/WiIIiam278/HuskHomesGUI) - 传送系统的 GUI
 <p></p>
 
-</samp></td></tr></tbody></table>
+  </samp></td></tr></tbody></table>
 
 </details>
 
-[
-<img src="https://github.com/ApliNi/ApliNi/blob/main/_img/ipacel_4.0.jpg" width="100%" />
-](https://ipacel.cc/map/)
+<p></p>
 
+[  <img src="https://github.com/ApliNi/ApliNi/blob/main/_img/ipacel_4.0.jpg" width="100%" />  ](https://ipacel.cc/map/)
 <center><p align="center"><code>&nbsp;&nbsp; We &nbsp;are &nbsp;here &nbsp;Forever &nbsp;&nbsp;</code></p></center>
