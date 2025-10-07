@@ -9,13 +9,13 @@
 
 ### 技术栈
 ```md
-| FrontEnd   | BackEnd   | DB     | IDE & Tool         | Platform   | Network   | OS                |
-| ---------- | --------- | ------ | ------------------ | ---------- | --------- | ----------------- |
-| JavaScript | Node.js   | SQLite | IntelliJ IDEA      | Cloudflare | Wireshark | Windows 10        |
-| CSS3       | Java      |        | VSCode             |            | Tailscale | Debian 12         |
-| HTML5      | PHP       |        | Visual Studio 2022 |            |           | Openwrt / Kwrt 24 |
-|            | C++       |        | HeidiSQL           |            |           |                   |
-|            | Arduino   |        |                    |            |           |                   |
+| FrontEnd   | BackEnd   | DB     | IDE & Tool         | Platform   | Network   | OS                | AI                 |
+| ---------- | --------- | ------ | ------------------ | ---------- | --------- | ----------------- | ------------------ |
+| JavaScript | Node.js   | SQLite | IntelliJ IDEA      | Cloudflare | Wireshark | Windows 10        | ContextEngineering |
+| CSS3       | Java      |        | VSCode             |            | Tailscale | Debian 12         | FunctionCalling    |
+| HTML5      | PHP       |        | Visual Studio 2022 |            |           | Openwrt / Kwrt 24 | LLM                |
+|            | C++       |        | HeidiSQL           |            |           |                   | VLM                |
+|            | Arduino   |        |                    |            |           |                   |                    |
 ```
 
 <div>
