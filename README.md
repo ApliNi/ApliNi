@@ -7,7 +7,8 @@
 
 ### 你好呀 👋👋
 
-> 我是 **ApliNi**
+> 我是 **ApliNi**  
+> 📬 [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) - 🐧 `169548809` [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs)
 
 
 <!--
@@ -26,12 +27,25 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code)
 -->
 
+### 技术栈
+```css
+| FrontEnd   | BackEnd   | DB     | IDE & Tools        | Platform   | Network   | OS                |
+| ---------- | --------- | ------ | ------------------ | ---------- | --------- | ----------------- |
+| JavaScript | Node.js   | SQLite | IntelliJ IDEA      | Cloudflare | Wireshark | Windows 10        |
+| CSS3       | Java      |        | VSCode             |            | Tailscale | Debian 12         |
+| HTML5      | PHP       |        | Visual Studio 2022 |            |           | Openwrt / Kwrt 24 |
+|            | C++       |        | HeidiSQL           |            |           |                   |
+|            | Arduino   |        |                    |            |           |                   |
+```
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplini&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>
 
 <details><summary>关于我的项目</summary>
+
+<table><tbody><tr><td width="9999999px"><samp>
 
 - Web 应用
   - [简单解释](https://qb.ipacel.cc/) 🌟
@@ -58,21 +72,12 @@
   - [HuskHomes 传送系统的 GUI](https://github.com/WiIIiam278/HuskHomesGUI)
 <p></p>
 
+</samp></td></tr></tbody></table>
+
 </details>
-
-
-
-📬 [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20) - 🐧 `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs)
-
-
-### &nbsp;
 
 [
 <img src="https://github.com/ApliNi/ApliNi/blob/main/_img/ipacel_4.0.jpg" width="100%" />
 ](https://ipacel.cc/map/)
 
-
 <center><p align="center"><code>&nbsp;&nbsp; We &nbsp;are &nbsp;here &nbsp;Forever &nbsp;&nbsp;</code></p></center>
-
-
-
