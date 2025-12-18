@@ -3,7 +3,7 @@
 
 
 ### 你好呀 👋👋
-> <code> 我是 **ApliNi** </code>  
+> 我是 **ApliNi**  
 > <code> Email = [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20);  QQ = `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs); </code>  
 
 
@@ -30,8 +30,9 @@
 <p></p>
 
 - Web 应用
-  - [简单解释](https://qb.ipacel.cc/) - 自动刷题接口 🌟
+  - [pChat](https://pchat.ipacel.cc/) - 🌟 免费且本地化的 AI 对话终端
   - [CiAt](https://cat.ipacel.cc/) - 在当时还算高级的 AI 对话
+  - [简单解释](https://qb.ipacel.cc/) - 自动刷题接口
   - [MCID](https://mcid.ipacel.cc/) - Minecraft 物品名称查询网站
   - [LinKa](https://ipacel.cc/Array/_1/) - 尝试写一个模块化的联机游戏
   - [MCList](https://mc.ipacel.cc/) - 长时间记录 MC 服务器历史数据
