@@ -4,7 +4,7 @@
 
 ### 你好呀 👋👋
 > 我是 **ApliNi**  
-> <code> Email = [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20);  QQ = `169548809`, [`Ipac会客室`](https://qm.qq.com/q/9dYY4dg6Gs); </code>  
+> <code> Email = [`aplini@ipacel.cc`](mailto:aplini@ipacel.cc?subject=GitHub%20::%20)  QQ = `169548809` </code>  
 
 
 ### 技术栈
