@@ -19,8 +19,8 @@
 ```
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aplini&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <img src="https://github-readme-stats.ipacel.cc/api/top-langs/?username=aplini&layout=compact" />
+  <img src="https://github-readme-stats.ipacel.cc/api?username=aplini&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </div>
 
 
