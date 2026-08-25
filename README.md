@@ -69,4 +69,4 @@
 <!-- 这是一个彩蛋 -->
 <!-- 可能会感到奇怪, 在这个存储库中, 我们删除了所有旧的提交记录 -->
 
-<center><p align="center"><code>&nbsp;&nbsp; We &nbsp;are &nbsp;here &nbsp;Forever &nbsp;&nbsp;</code></p></center>
+<center><p align="center"><code>&nbsp; I Love the World and Everything In It &nbsp;</code></p></center>
