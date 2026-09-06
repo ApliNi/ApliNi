@@ -33,9 +33,10 @@
 - 开放 Web 服务
   - [PDF 翻译](https://pdf.ipacel.cc) - 保留格式翻译 PDF 文件
   - [MTranServer-Rust](https://translate.ipacel.cc) - 更好的高并发翻译服务器, 另外也部署了 [MTranServer](https://mtranserver.ipacel.cc/ui/?token=__IpacEL_MT_API_TOKEN__)
+  - [MCID](https://mcid.ipacel.cc/) - Minecraft 命名空间查询
+  - [Emby](https://emby.ipacel.cc/) - 媒体服务器
   - [API HUB](https://llm-api.007727.xyz) - 自用中转站
   - [pChat](https://pchat.ipacel.cc/) - 带有加密 WebDav 同步的古法 AI 对话工具
-  - [Emby](https://emby.ipacel.cc/) - 媒体服务器
   - [IpacEL](https://ipacel.cc/) - 我们的 Minecraft 服务器
   - [CTP 开发教程](https://ipacel.cc/ctp/) - 广告
 <p></p>
