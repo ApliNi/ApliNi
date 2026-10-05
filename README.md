@@ -13,7 +13,7 @@
 | Vanilla JS | Go        | SQLite | VSCode        | Cloudflare      | Windows 11     | Oh-My-Pi |
 | CSS3       | Node.js   |        | IntelliJ IDE  | Caddy           | Debian 12      | OpenCode |
 |            | Rust      |        | Visual Studio |                 |                |          |
-|            | Java      |        |               | Tailscale       |                |          |
+|            | Java      |        |               | Tailscale       | FreeBSD 14     |          |
 |            | C/C++     |        |               | SingBox / Resin | ImmortalWrt 25 | DeepSeek |
 ```
 
