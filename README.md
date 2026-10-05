@@ -8,13 +8,13 @@
 
 
 ```sh
-| FrontEnd   | BackEnd   | DB     | IDE           | Network         | OS                | AI       |
-| ---------- | --------- | ------ | ------------- | --------------- | ----------------- | -------- |
-| Vanilla JS | Go        | SQLite | VSCode        | Cloudflare      | Windows 11        | Oh-My-Pi |
-| CSS3       | Node.js   |        | IntelliJ IDE  | Caddy           | Debian 12         | OpenCode |
-|            | Rust      |        | Visual Studio |                 |                   |          |
-|            | Java      |        |               | Tailscale       |                   |          |
-|            | C/C++     |        |               | SingBox / Resin | OpenWrt / Kwrt 24 | DeepSeek |
+| FrontEnd   | BackEnd   | DB     | IDE           | Network         | OS             | AI       |
+| ---------- | --------- | ------ | ------------- | --------------- | -------------- | -------- |
+| Vanilla JS | Go        | SQLite | VSCode        | Cloudflare      | Windows 11     | Oh-My-Pi |
+| CSS3       | Node.js   |        | IntelliJ IDE  | Caddy           | Debian 12      | OpenCode |
+|            | Rust      |        | Visual Studio |                 |                |          |
+|            | Java      |        |               | Tailscale       |                |          |
+|            | C/C++     |        |               | SingBox / Resin | ImmortalWrt 25 | DeepSeek |
 ```
 
 <div>
